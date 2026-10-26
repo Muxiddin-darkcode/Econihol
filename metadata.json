@@ -1,0 +1,6 @@
+{
+  "name": "EkoMadaniyat",
+  "description": "Boshlang'ich sinf o'quvchilarida ekologik madaniyatni rivojlantirish uchun interaktiv ta'lim, diagnostika va tadqiqot platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
